@@ -1,6 +1,6 @@
 nothing special just my hyprland dotfiles 
 
-distro ```Arch``` BTW 
+distro ```Arch``` BTW  
 
 
 
