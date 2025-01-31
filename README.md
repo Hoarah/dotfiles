@@ -1,6 +1,6 @@
 nothing special just my hyprland dotfiles 
 
-distro ```Arch``` BTW  
+distro ```Arch``` btw 
 
 
 
@@ -35,7 +35,7 @@ background daemon ```swww & waypaper```
 
 
 
-file manager ```nemo```
+file manager ```nemo```/```yazi```
 
 
 
@@ -44,4 +44,4 @@ taxt editor ```nvim```
 
 
 
-don't remember anymore tbh 
+I forgot the rest tbh 
