@@ -5,7 +5,7 @@ distro ```Arch``` btw
 
 
 
-WM ```hyprland```
+wm ```hyprland```
 
 
 
