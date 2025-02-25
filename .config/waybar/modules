@@ -300,5 +300,9 @@
 
       "return-type": "json"
     },
-  
+  "custom/cava": {
+ "exec": "~/.config/scripts/cava.sh",
+    "format": "{}",
+    "on-click": "kitty cava"
+    },
 }
