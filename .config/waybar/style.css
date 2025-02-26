@@ -229,17 +229,16 @@ window#waybar {
 }
 
 #custom-notification {
-	color: @foreground;
+	color: @color1;
 	font-size: 14px;
-  background: @color1;
+  background: @background;
   margin-left: 5px;
   border-radius: 24px 24px 24px 13px;
 }
 #custom-notification:hover {
-	background: @foreground;
-	color: @background;
+  background: @color1;
+  color: @background;
 }
-
 #battery {
    color: @color1;
    background-color: @background;
