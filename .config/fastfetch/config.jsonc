@@ -1,9 +1,9 @@
 {
 	"logo": {
-	 "type": "kitty",
-         "source": "~/.config/fastfetch/sand.jpg"
-	 "width": 30,
-         "height": 13
+    //"type": "kitty",
+	 "source": "~/.config/fastfetch/fetch9.txt",
+   //"width": 25,
+   //"height": 13
 	},
 	"display": {
         "separator": " ~ "
@@ -56,6 +56,12 @@
 	    "key": "",
 	    "keyColor": "blue"
 	},
+  {
+      "type" : "cpu",
+      "key" : "",
+      "format": "{name}",
+      "keyColor" : "blue"
+  },
 	{
 	    "type": "memory",
 	    "key": "",
