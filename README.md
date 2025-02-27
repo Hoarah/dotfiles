@@ -1,4 +1,4 @@
-nothing special just my hyprland dotfiles 
+nothing special 
 
 distro ```Arch``` btw 
 
