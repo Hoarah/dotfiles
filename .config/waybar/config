@@ -1,5 +1,6 @@
 {
 
+    
     "include": "~/.config/waybar/modules",
     "layer": "top",
     "exclusive": true,
@@ -14,21 +15,24 @@
     "height": 26,
 
     "modules-left": [
-   
+    "custom/logo",  
       "battery",
       "cpu",
       "memory",
       "hyprland/window",
+
     ],
     "modules-center": [
       "hyprland/workspaces",
     ],
     "modules-right": [
-    	"tray",
+  
+      "tray",
+      "custom/cava",
       "network",
 	    "pulseaudio",
 	    "hyprland/language",
 	    "clock",
-         "custom/power",
+         "custom/notification",
     ],
 }
