@@ -67,7 +67,21 @@
 	    "key": "",
 	    "keyColor" : "blue"
 	},
-        {
+ {
+      "type": "uptime",
+      "key": "󱦟",
+      "keyColor": "blue" 
+    },
+
+   {
+      "type": "command",
+      "key": "",
+      "keyColor": "blue",
+      "text": "birth_install=$(stat -c %W /); current=$(date +%s); time_progression=$((current - birth_install)); days_difference=$((time_progression / 86400)); echo $days_difference days"
+    
+    },
+            
+{
             "type": "custom",
 	    "keyColor": "blue",
             "format": "\u001b[90m▂▂  \u001b[31m▂▂  \u001b[32m▂▂  \u001b[33m▂▂  \u001b[34m▂▂  \u001b[35m▂▂  \u001b[36m▂▂  \u001b[37m▂▂ "
