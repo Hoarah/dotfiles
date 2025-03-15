@@ -1,7 +1,9 @@
 #!/bin/bash
 
-wal -n -i "$1"
-$HOME/.cache/wal/colors.sh
+wal -e --cols16 -n -i "$1"
+/home/baraa/.cache/wal/colors.sh
 
-pkill swaync
-swaync
+swaync-client -R
+swaync-client -rs
+rm ~/.config/vesktop/themes/colors-discord.css
+cp ~/.cache/wal/colors-discord.css ~/.config/vesktop/themes/
