@@ -5,13 +5,20 @@ distro ```Arch``` btw
 
 
 
+
+shell ```fish```
+
+
+
+
+
 wm ```hyprland```
 
 
 
 
 
-terminal ```kitty```
+terminal ```foot```
 
 
 
